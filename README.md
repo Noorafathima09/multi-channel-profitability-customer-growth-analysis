@@ -27,10 +27,10 @@
 | Attribute | Details |
 |-----------|---------|
 | **Business Domain** | Multi-Channel Retail |
-| **Project Type** | End-to-End Business Analytics Case Study |
+| **Project Type** | End-to-End Data Analytics Portfolio Project |
 | **Tools & Technologies** | SQL, MySQL, Power BI, DAX, Power Query |
-| **Analytical Scope** | Executive Performance, Profitability Analysis, Customer Intelligence, Operational Intelligence, Regional & Channel Intelligence, Product Performance |
-| **Project Deliverables** | SQL Data Investigation, SQL Data Cleaning & Transformation, SQL Business Analysis, Interactive Power BI Dashboard, Business Case Study |
+| **Analytical Area** | Executive Performance, Profitability Analysis, Customer Intelligence, Operational Intelligence, Regional & Channel Intelligence, Product Performance |
+| **Repository Contents** | SQL Data Investigation, SQL Data Cleaning & Transformation, SQL Business Analysis, Interactive Power BI Dashboard, Business Case Study |
 
 ---
 
@@ -46,9 +46,9 @@ The project follows the complete analytics lifecycle—from data investigation a
 
 # Business Context
 
-Retail organisations generate large volumes of transactional data across products, customers, sales channels, and geographical markets. While this data captures day-to-day business activity, meaningful decision-making requires understanding how financial performance, customer behaviour, operational efficiency, regional performance, and product demand interact to influence overall business outcomes.
+Retail organizations generate large volumes of transactional data across products, customers, sales channels, and geographical markets. While this data captures day-to-day business activity, meaningful decision-making requires understanding how financial performance, customer behaviour, operational efficiency, regional performance, and product demand interact to influence overall business outcomes.
 
-This project addresses that challenge through a connected analytical framework that brings these business perspectives together into a single analytical solution. By analysing the relationships between key performance areas rather than isolated metrics, the project identifies performance drivers, uncovers operational risks, and delivers evidence-based recommendations that support strategic business decisions.
+This project addresses that challenge through a connected analytical framework that brings these business perspectives together into a single analytical solution. By analyzing the relationships between key performance areas rather than isolated metrics, the project identifies performance drivers, uncovers operational risks, and delivers evidence-based recommendations that support strategic business decisions.
 
 ---
 
@@ -58,9 +58,9 @@ The project aims to:
 
 - Evaluate overall business performance using integrated financial and operational KPIs.
 - Identify the key drivers of revenue, profitability, and sustainable business growth.
-- Analyse customer behaviour, operational performance, regional trends, sales channel performance, and product demand through connected business perspectives.
+- Analyze customer behavior, operational performance, regional trends, sales channel performance, and product demand through connected business perspectives.
 - Transform raw transactional data into a reliable analytical dataset using structured SQL data investigation and data preparation.
-- Develop an interactive Power BI dashboard that supports executive decision-making through intuitive business visualisations.
+- Develop an interactive Power BI dashboard that supports executive decision-making through intuitive business visualizations.
 - Deliver evidence-based business insights and strategic recommendations that support informed business decisions.
 
 ---
