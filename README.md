@@ -139,7 +139,7 @@ The project uses a multi-channel retail transaction dataset containing sales act
 |--------|-----------|
 | 🧩 **Business Understanding** | Defined the business objectives, analytical scope, and key business questions before any technical work began. |
 | 🔍 **Data Investigation** | Assessed data quality, identified inconsistencies, and documented findings that guided the SQL data cleaning strategy. |
-| 🧹 **SQL Data Cleaning & Transformation** | Cleaned, standardised, and transformed the raw dataset into a reliable analytical dataset using SQL. |
+| 🧹 **SQL Data Cleaning & Transformation** | Cleaned, standardized, and transformed the raw dataset into a reliable analytical dataset using SQL. |
 | 📊 **SQL Business Analysis** | Answered business questions through structured SQL analysis across six interconnected analytical domains. |
 | 🏗️ **Power BI Data Modeling** | Built a star schema and developed reusable DAX measures to support efficient and scalable reporting. |
 | 📈 **Interactive Dashboard Development** | Designed a multi-page Power BI dashboard that enables interactive exploration of business performance. |
@@ -150,14 +150,14 @@ The project uses a multi-channel retail transaction dataset containing sales act
 
 # Why This Methodology?
 
-Many analytics portfolio projects begin with a cleaned dataset and end with a dashboard. This project follows a broader analytical workflow that places equal importance on business understanding, data quality, structured analysis, and evidence-based recommendations.
+This analytics portfolio projects goes beyond starting with a cleaned dataset and end with a dashboard. This project follows a broader analytical workflow that places equal importance on business understanding, data quality, structured analysis, and evidence-based recommendations.
 
 Key characteristics of the methodology include:
 
 - Business objectives were established before technical analysis began.
 - Data quality investigation informed the SQL data cleaning strategy.
 - SQL was used for both data preparation and business analysis.
-- Analysis was organised into six interconnected business domains rather than isolated reports.
+- Analysis was organized into six interconnected business domains rather than isolated reports.
 - Dashboard findings are supported by validated SQL analysis.
 - Strategic recommendations are derived from analytical evidence rather than visual observations alone.
 
