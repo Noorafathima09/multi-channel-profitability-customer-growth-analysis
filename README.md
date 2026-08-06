@@ -75,7 +75,6 @@ The project begins with understanding the business problem, followed by data inv
 
 # Analytical Workflow
 
-> **Note:** The workflow below will be replaced with a professionally designed workflow diagram in the final version of the repository.
 
 ```text
 🧩 Business Understanding
