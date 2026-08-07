@@ -202,7 +202,7 @@ Although the analytical framework consists of **six connected analytical domains
 The Executive Overview serves as the entry point to the analytical journey by presenting executive-level KPIs alongside integrated performance trends. It establishes the overall business context, enabling decision-makers to quickly assess business health before exploring the underlying drivers of performance.
 
 <p align="center">
-    <img src="Dashboard_Images/01_Executive_Overview.png" width="95%">
+  <img src="./Dashboard_Images/01_Executive_Overview.png" width="95%">
 </p>
 
 ---
@@ -214,7 +214,7 @@ The Executive Overview serves as the entry point to the analytical journey by pr
 This page investigates the financial drivers behind business performance by evaluating profit, profit margins, discount effectiveness, shipping costs, and category profitability. Trend analysis is integrated throughout the page to reveal how financial performance changes over time and to highlight opportunities for improving sustainable profitability.
 
 <p align="center">
-    <img src="Dashboard_Images/02_Profitability_Analysis.png" width="95%">
+  <img src="./Dashboard_Images/02_Profitability_Analysis.png" width="95%">
 </p>
 
 ---
@@ -226,7 +226,7 @@ This page investigates the financial drivers behind business performance by eval
 This page combines customer intelligence with operational performance to provide a connected view of customer behavior and business operations. It examines customer profitability, purchasing behavior, customer ratings, return patterns, and operational efficiency, enabling stakeholders to identify opportunities that improve both customer value and operational effectiveness.
 
 <p align="center">
-    <img src="Dashboard_Images/03_Customer_Operational_Analysis.png" width="95%">
+  <img src="./Dashboard_Images/03_Customer_Operational_Analysis.png" width="95%">
 </p>
 
 ---
@@ -238,7 +238,7 @@ This page combines customer intelligence with operational performance to provide
 This page evaluates business performance across different sales areas and sales channels to identify where the business performs most effectively. By integrating trend analysis with geographical and channel comparisons, stakeholders can recognize market opportunities, evaluate channel effectiveness, and support more informed business expansion strategies.
 
 <p align="center">
-    <img src="Dashboard_Images/04_Sales_Area_Channel_Analysis.png" width="95%">
+  <img src="./Dashboard_Images/04_Sales_Area_Channel_Analysis.png" width="95%">
 </p>
 
 ---
@@ -250,7 +250,7 @@ This page evaluates business performance across different sales areas and sales 
 The analytical journey concludes with Product Performance Analysis, where business performance is translated into product-level decision-making. This page evaluates product demand, revenue contribution, profitability, return behavior, and inventory performance to identify high-performing products, monitor underperforming categories, and support future product strategy.
 
 <p align="center">
-    <img src="Dashboard_Images/05_Product_Performance_Analysis.png" width="95%">
+  <img src="./Dashboard_Images/05_Product_Performance_Analysis.png" width="95%">
 </p>
 
 ---
