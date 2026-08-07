@@ -165,3 +165,98 @@ This methodology reflects the complete workflow used to transform raw business d
 
 ---
 
+# 📊 Power BI Dashboard
+
+The analytical findings from this project were translated into a five-page interactive **Power BI Business Intelligence solution** designed to support evidence-based decision-making.
+
+Rather than presenting isolated reports, the dashboard follows a connected analytical journey where each page builds upon the previous one. Executive performance, profitability, customer behavior, operational efficiency, sales area performance, sales channel effectiveness, and product performance are integrated into a unified analytical framework that enables stakeholders to understand business performance from multiple perspectives.
+
+---
+
+# 📑 Dashboard Overview
+
+The dashboard was designed as a connected Business Intelligence solution rather than a collection of independent reports. Each dashboard page represents a distinct analytical perspective while contributing to a unified understanding of overall business performance.
+
+Although the analytical framework consists of **six connected analytical domains**, **Trend Analysis** is intentionally integrated throughout the dashboard instead of being presented as a separate page. This approach allows stakeholders to evaluate business performance over time within the context of profitability, customer behavior, operational performance, sales area and channel performance, and product performance, creating a more meaningful analytical experience.
+
+---
+
+# 🗂️ Dashboard Structure
+
+| Dashboard Page | Business Purpose |
+|----------------|------------------|
+| 📈 Executive Overview | Provides a consolidated view of overall business performance through executive KPIs and integrated performance trends, establishing business context before deeper analysis. |
+| 💰 Profitability Analysis | Evaluates profitability drivers by examining profit, profit margin, discounts, shipping costs, and category performance to understand the factors influencing financial outcomes. |
+| 👥 Customer & Operational Analysis | Analyzes customer value, purchasing behavior, customer ratings, return patterns, and operational efficiency to understand how customer experience and business operations collectively influence performance. |
+| 🌍 Sales Area & Channel Analysis | Compares business performance across sales areas and sales channels to identify geographical and channel-based opportunities for sustainable business growth. |
+| 📦 Product Performance Analysis | Evaluates product demand, revenue contribution, profitability, and return behavior to support product strategy, inventory planning, and long-term business growth. |
+
+---
+
+# 🖥️ Dashboard Walkthrough
+
+## 📈 Executive Overview
+
+**Purpose**
+
+The Executive Overview serves as the entry point to the analytical journey by presenting executive-level KPIs alongside integrated performance trends. It establishes the overall business context, enabling decision-makers to quickly assess business health before exploring the underlying drivers of performance.
+
+<p align="center">
+    <img src="Dashboard_Images/01_Executive_Overview.png" width="95%">
+</p>
+
+---
+
+## 💰 Profitability Analysis
+
+**Purpose**
+
+This page investigates the financial drivers behind business performance by evaluating profit, profit margins, discount effectiveness, shipping costs, and category profitability. Trend analysis is integrated throughout the page to reveal how financial performance changes over time and to highlight opportunities for improving sustainable profitability.
+
+<p align="center">
+    <img src="Dashboard_Images/02_Profitability_Analysis.png" width="95%">
+</p>
+
+---
+
+## 👥 Customer & Operational Analysis
+
+**Purpose**
+
+This page combines customer intelligence with operational performance to provide a connected view of customer behavior and business operations. It examines customer profitability, purchasing behavior, customer ratings, return patterns, and operational efficiency, enabling stakeholders to identify opportunities that improve both customer value and operational effectiveness.
+
+<p align="center">
+    <img src="Dashboard_Images/03_Customer_Operational_Analysis.png" width="95%">
+</p>
+
+---
+
+## 🌍 Sales Area & Channel Analysis
+
+**Purpose**
+
+This page evaluates business performance across different sales areas and sales channels to identify where the business performs most effectively. By integrating trend analysis with geographical and channel comparisons, stakeholders can recognize market opportunities, evaluate channel effectiveness, and support more informed business expansion strategies.
+
+<p align="center">
+    <img src="Dashboard_Images/04_Sales_Area_Channel_Analysis.png" width="95%">
+</p>
+
+---
+
+## 📦 Product Performance Analysis
+
+**Purpose**
+
+The analytical journey concludes with Product Performance Analysis, where business performance is translated into product-level decision-making. This page evaluates product demand, revenue contribution, profitability, return behavior, and inventory performance to identify high-performing products, monitor underperforming categories, and support future product strategy.
+
+<p align="center">
+    <img src="Dashboard_Images/05_Product_Performance_Analysis.png" width="95%">
+</p>
+
+---
+
+# 💡 Executive Insights
+
+The dashboard follows a structured analytical journey that progressively explains business performance instead of presenting isolated metrics. Beginning with an executive overview and continuing through profitability, customer behavior, operational performance, sales area and channel analysis, and product performance, each page builds upon the previous one to create a connected analytical experience.
+
+By integrating executive KPIs, financial performance, customer intelligence, operational metrics, geographical analysis, and product insights within a unified Business Intelligence framework, the dashboard enables stakeholders to monitor business performance, identify improvement opportunities, and make more informed strategic decisions.
