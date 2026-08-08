@@ -29,7 +29,7 @@
 | **Business Domain** | Multi-Channel Retail |
 | **Project Type** | End-to-End Data Analytics Portfolio Project |
 | **Tools & Technologies** | SQL, MySQL, Power BI, DAX, Power Query |
-| **Analytical Area** | Executive Performance, Profitability Analysis, Customer Intelligence, Operational Intelligence, Regional & Channel Intelligence, Product Performance |
+| **Analytical Area** | Executive Performance, Profitability Analysis, Customer Intelligence, Operational Intelligence, Sales Area & Channel Intelligence, Product Performance |
 | **Repository Contents** | SQL Data Investigation, SQL Data Cleaning & Transformation, SQL Business Analysis, Interactive Power BI Dashboard, Business Case Study |
 
 ---
@@ -38,7 +38,7 @@
 
 Data becomes valuable only when it is transformed into insights that support confident business decisions. This project demonstrates how a structured analytics workflow converts raw retail transaction data into reliable business intelligence through data investigation, SQL-based data preparation, business analysis, interactive reporting, and strategic recommendations.
 
-Using a multi-channel retail dataset, the analysis examines six interconnected business perspectives: Executive Performance, Profitability Analysis, Customer Intelligence, Operational Intelligence, Regional & Channel Intelligence, and Product Performance. Rather than evaluating these areas independently, the project integrates them to provide a comprehensive understanding of business performance and the factors influencing sustainable growth.
+Using a multi-channel retail dataset, the analysis examines six interconnected business perspectives: Executive Performance, Profitability Analysis, Customer Intelligence, Operational Intelligence, Sales Area & Channel Intelligence, and Product Performance. Rather than evaluating these areas independently, the project integrates them to provide a comprehensive understanding of business performance and the factors influencing sustainable growth.
 
 The project follows the complete analytics lifecycle—from data investigation and quality assessment to SQL data cleaning, business analysis, Power BI dashboard development, and evidence-based recommendations. Each stage builds upon the previous one, ensuring that every business insight is supported by reliable, well-prepared data and a structured analytical methodology.
 
@@ -58,7 +58,7 @@ The project aims to:
 
 - Evaluate overall business performance using integrated financial and operational KPIs.
 - Identify the key drivers of revenue, profitability, and sustainable business growth.
-- Analyze customer behavior, operational performance, regional trends, sales channel performance, and product demand through connected business perspectives.
+- Analyze customer behavior, operational performance, Sales Area trends, sales channel performance, and product demand through connected business perspectives.
 - Transform raw transactional data into a reliable analytical dataset using structured SQL data investigation and data preparation.
 - Develop an interactive Power BI dashboard that supports executive decision-making through intuitive business visualizations.
 - Deliver evidence-based business insights and strategic recommendations that support informed business decisions.
@@ -255,7 +255,7 @@ The analytical journey concludes with Product Performance Analysis, where busine
 
 ---
 
-# 💡 Executive Insights
+ ## 📖 Dashboard Storytelling Approach
 
 The dashboard follows a structured analytical journey that progressively explains business performance instead of presenting isolated metrics. Beginning with an executive overview and continuing through profitability, customer behavior, operational performance, sales area and channel analysis, and product performance, each page builds upon the previous one to create a connected analytical experience.
 
