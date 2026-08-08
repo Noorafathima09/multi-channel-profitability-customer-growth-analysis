@@ -472,7 +472,3 @@ The final solution brings together:
 
 ---
 
-
-
-
-
