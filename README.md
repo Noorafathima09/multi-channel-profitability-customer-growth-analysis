@@ -105,52 +105,25 @@ The workflow illustrates the complete analytical lifecycle followed throughout t
 
 ---
 
-# Dataset Overview
+### Dataset Overview
 
-The project uses a multi-channel retail transaction dataset containing sales activity across multiple stores, customer segments, sales channels, product categories, and geographical regions. The dataset combines financial, operational, and customer-related information, providing a comprehensive foundation for business performance analysis.
+The dataset contains **19 fields** covering order information, sales structure, customer segments, product attributes, financial metrics, operational costs, returns, customer ratings, and transaction-level fulfillment details.
 
-### Dataset Fields
-
-- Order Information
-- Order Date
-- Store
-- Region
-- Customer Segment
-- Sales Channel
-- Category
-- Subcategory
-- Product SKU
-- Quantity
-- Unit Price
-- Discount Percentage
-- Revenue
-- Cost of Goods Sold (COGS)
-- Shipping Cost
-- Return Status
-- Customer Rating
-- Payment Method
-- Shipping Mode
+| Field Group | Key Fields |
+|---|---|
+| **Order & Sales Structure** | `Order ID`, `order_date`, `Store`, `Region`, `Sales Channel` |
+| **Customer** | `Customer Segment`, `customer_rating` |
+| **Product** | `Category`, `Subcategory`, `SKU` |
+| **Financial** | `quantity`, `unit price`, `discount percent`, `revenue`, `cogs` |
+| **Operations** | `shipping cost`, `returned`, `Shipping Mode` |
+| **Transaction Details** | `Payment Method` |
 
 ---
 
-# Project Execution Roadmap
-
-| Stage | Objective |
-|--------|-----------|
-| 🧩 **Business Understanding** | Defined the business objectives, analytical scope, and key business questions before any technical work began. |
-| 🔍 **Data Investigation** | Assessed data quality, identified inconsistencies, and documented findings that guided the SQL data cleaning strategy. |
-| 🧹 **SQL Data Cleaning & Transformation** | Cleaned, standardized, and transformed the raw dataset into a reliable analytical dataset using SQL. |
-| 📊 **SQL Business Analysis** | Answered business questions through structured SQL analysis across six interconnected analytical domains. |
-| 🏗️ **Power BI Data Modeling** | Built a star schema and developed reusable DAX measures to support efficient and scalable reporting. |
-| 📈 **Interactive Dashboard Development** | Designed a multi-page Power BI dashboard that enables interactive exploration of business performance. |
-| 💡 **Business Insight Generation** | Interpreted analytical findings to identify performance trends, business opportunities, and operational risks. |
-| 🎯 **Strategic Recommendations** | Converted analytical findings into practical recommendations that support informed business decision-making. |
-
----
-
+The dataset combines commercial, financial, customer, product, and operational attributes required to evaluate business performance across the project's analytical framework.
 # Why This Methodology?
 
-This analytics portfolio projects goes beyond starting with a cleaned dataset and end with a dashboard. This project follows a broader analytical workflow that places equal importance on business understanding, data quality, structured analysis, and evidence-based recommendations.
+This project does not begin with a cleaned dataset and end with a dashboard. This project follows a broader analytical workflow that places equal importance on business understanding, data quality, structured analysis, and evidence-based recommendations.
 
 Key characteristics of the methodology include:
 
@@ -170,14 +143,6 @@ This methodology reflects the complete workflow used to transform raw business d
 The analytical findings from this project were translated into a five-page interactive **Power BI Business Intelligence solution** designed to support evidence-based decision-making.
 
 Rather than presenting isolated reports, the dashboard follows a connected analytical journey where each page builds upon the previous one. Executive performance, profitability, customer behavior, operational efficiency, sales area performance, sales channel effectiveness, and product performance are integrated into a unified analytical framework that enables stakeholders to understand business performance from multiple perspectives.
-
----
-
-# 📑 Dashboard Overview
-
-The dashboard was designed as a connected Business Intelligence solution rather than a collection of independent reports. Each dashboard page represents a distinct analytical perspective while contributing to a unified understanding of overall business performance.
-
-Although the analytical framework consists of **six connected analytical domains**, **Trend Analysis** is intentionally integrated throughout the dashboard instead of being presented as a separate page. This approach allows stakeholders to evaluate business performance over time within the context of profitability, customer behavior, operational performance, sales area and channel performance, and product performance, creating a more meaningful analytical experience.
 
 ---
 
@@ -396,7 +361,7 @@ Strategic recommendations were developed only after recurring patterns had been 
 
 ### Power BI
 
-- Developed a relational data model to support business analysis.
+- Built a star-schema data model to support business analysis.
 - Created DAX measures for business KPIs and performance evaluation.
 - Built interactive dashboards covering multiple connected business perspectives.
 - Designed five dashboard pages as a connected analytical narrative rather than independent reports.
