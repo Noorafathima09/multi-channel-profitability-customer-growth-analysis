@@ -29,7 +29,7 @@
 | **Business Domain** | Multi-Channel Retail |
 | **Project Type** | End-to-End Data Analytics Portfolio Project |
 | **Tools & Technologies** | SQL, MySQL, Power BI, DAX, Power Query |
-| **Analytical Area** | Executive Performance, Profitability Analysis, Customer Intelligence, Operational Intelligence, Sales Area & Channel Intelligence, Product Performance |
+| **Analytical Area** | Trend Analysis, Profitability Analysis, Customer Intelligence, Operational Intelligence, Sales Area & Channel Intelligence, Product Performance |
 | **Repository Contents** | SQL Data Investigation, SQL Data Cleaning & Transformation, SQL Business Analysis, Interactive Power BI Dashboard, Business Case Study |
 
 ---
@@ -114,8 +114,8 @@ The dataset contains **19 fields** covering order information, sales structure, 
 | **Order & Sales Structure** | `Order ID`, `order_date`, `Store`, `Region`, `Sales Channel` |
 | **Customer** | `Customer Segment`, `customer_rating` |
 | **Product** | `Category`, `Subcategory`, `SKU` |
-| **Financial** | `quantity`, `unit price`, `discount percent`, `revenue`, `cogs` |
-| **Operations** | `shipping cost`, `returned`, `Shipping Mode` |
+| **Financial** | `quantity`, `unit_price`, `discount_percent`, `revenue`, `cogs` |
+| **Operations** | `shipping_cost`, `returned`, `Shipping Mode` |
 | **Transaction Details** | `Payment Method` |
 
 ---
@@ -212,7 +212,7 @@ This page evaluates business performance across different sales areas and sales 
 
 **Purpose**
 
-The analytical journey concludes with Product Performance Analysis, where business performance is translated into product-level decision-making. This page evaluates product demand, revenue contribution, profitability, return behavior, and inventory performance to identify high-performing products, monitor underperforming categories, and support future product strategy.
+The analytical journey concludes with Product Performance Analysis, where business performance is translated into product-level decision-making. This page evaluates product demand, revenue contribution, profitability, return behavior, to support product strategy and sustainable business growth. 
 
 <p align="center">
   <img src="./Dashboard_Images/05_Product_Performance_Analysis.png" width="95%">
@@ -224,7 +224,7 @@ The analytical journey concludes with Product Performance Analysis, where busine
 
 The dashboard follows a structured analytical journey that progressively explains business performance instead of presenting isolated metrics. Beginning with an executive overview and continuing through profitability, customer behavior, operational performance, sales area and channel analysis, and product performance, each page builds upon the previous one to create a connected analytical experience.
 
-By integrating executive KPIs, financial performance, customer intelligence, operational metrics, geographical analysis, and product insights within a unified Business Intelligence framework, the dashboard enables stakeholders to monitor business performance, identify improvement opportunities, and make more informed strategic decisions.
+By integrating executive KPIs, financial performance, customer intelligence, operational metrics, sales area analysis, and product insights within a unified Business Intelligence framework, the dashboard enables stakeholders to monitor business performance, identify improvement opportunities, and make more informed strategic decisions.
 
 ---
 
