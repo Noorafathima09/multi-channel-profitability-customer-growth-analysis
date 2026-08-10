@@ -391,7 +391,7 @@ Strategic recommendations were developed only after recurring patterns had been 
 | **SQL Analysis** | Structured data validation, preparation, KPI development, and analytical investigation across the project's business domains. |
 | **Business Case Study** | Detailed documentation of the business context, analytical framework, executive insights, strategic recommendations, analytical design decisions, and technical capabilities demonstrated. |
 | **Dashboard Images** | High-quality previews of all five completed Power BI dashboard pages. |
-
+| **Case Study** | Detailed analytical case study documenting the business context, methodology, analysis, findings, and strategic recommendations. |
 ---
 
 ## 🔎 Analytical Scope
