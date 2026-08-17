@@ -172,7 +172,7 @@ The Executive Overview serves as the entry point to the analytical journey by pr
 
 ---
 
-## 💰 Profitability Analysis
+##  Profitability Analysis
 
 **Purpose**
 
