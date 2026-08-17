@@ -22,7 +22,7 @@
 
 ---
 
-# 📌 Project at a Glance
+#  Project at a Glance
 
 | Attribute | Details |
 |-----------|---------|
@@ -138,7 +138,7 @@ This methodology reflects the complete workflow used to transform raw business d
 
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 The analytical findings from this project were translated into a five-page interactive **Power BI Business Intelligence solution** designed to support evidence-based decision-making.
 
@@ -146,7 +146,7 @@ Rather than presenting isolated reports, the dashboard follows a connected analy
 
 ---
 
-# 🗂️ Dashboard Structure
+#  Dashboard Structure
 
 | Dashboard Page | Business Purpose |
 |----------------|------------------|
@@ -158,9 +158,9 @@ Rather than presenting isolated reports, the dashboard follows a connected analy
 
 ---
 
-# 🖥️ Dashboard Walkthrough
+#  Dashboard Walkthrough
 
-## 📈 Executive Overview
+##  Executive Overview
 
 **Purpose**
 
@@ -184,7 +184,7 @@ This page investigates the financial drivers behind business performance by eval
 
 ---
 
-## 👥 Customer & Operational Analysis
+## Customer & Operational Analysis
 
 **Purpose**
 
@@ -196,7 +196,7 @@ This page combines customer intelligence with operational performance to provide
 
 ---
 
-## 🌍 Sales Area & Channel Analysis
+## Sales Area & Channel Analysis
 
 **Purpose**
 
@@ -208,7 +208,7 @@ This page evaluates business performance across different sales areas and sales 
 
 ---
 
-## 📦 Product Performance Analysis
+## Product Performance Analysis
 
 **Purpose**
 
@@ -220,7 +220,7 @@ The analytical journey concludes with Product Performance Analysis, where busine
 
 ---
 
- ## 📖 Dashboard Storytelling Approach
+ ## Dashboard Storytelling Approach
 
 The dashboard follows a structured analytical journey that progressively explains business performance instead of presenting isolated metrics. Beginning with an executive overview and continuing through profitability, customer behavior, operational performance, sales area and channel analysis, and product performance, each page builds upon the previous one to create a connected analytical experience.
 
@@ -228,7 +228,7 @@ By integrating executive KPIs, financial performance, customer intelligence, ope
 
 ---
 
-## 💡 Executive Insights
+## Executive Insights
 
 The connected analysis produced several conclusions with direct strategic significance:
 
@@ -249,7 +249,7 @@ These insights reinforce the central conclusion of the project:
 
 ---
 
-## 🎯 Strategic Recommendations
+##  Strategic Recommendations
 
 The analysis produced a set of strategic directions based on recurring patterns identified across the connected analytical framework. Rather than responding to isolated metrics, the recommendations consider financial performance, customer value, operational efficiency, sales area and channel performance, product demand, and business trends together.
 
@@ -303,7 +303,7 @@ The strongest business understanding emerged only after integrating trend analys
 
 ---
 
-## 🧠 Key Analytical Design Decisions
+##  Key Analytical Design Decisions
 
 The quality of the analysis was shaped not only by the tools used, but by several decisions made before and during the analytical process.
 
@@ -349,7 +349,7 @@ Strategic recommendations were developed only after recurring patterns had been 
 
 ---
 
-## 🛠️ Technical Highlights
+##  Technical Highlights
 
 ### SQL
 
@@ -383,7 +383,7 @@ Strategic recommendations were developed only after recurring patterns had been 
 - Connected executive insights and strategic recommendations to evidence from the analytical framework.
 - Presented the final analysis through an interactive Business Intelligence solution.
 
-## 📦 Project Deliverables
+##  Project Deliverables
 
 | Deliverable | What It Provides |
 |---|---|
@@ -393,7 +393,7 @@ Strategic recommendations were developed only after recurring patterns had been 
 | **Dashboard Images** | High-quality previews of all five completed Power BI dashboard pages. |
 ---
 
-## 🔎 Analytical Scope
+##  Analytical Scope
 
 The project examines business performance through six connected analytical domains:
 
@@ -419,7 +419,7 @@ Evaluates product demand, profitability, return behavior, operational performanc
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 **Multi-Channel Profitability & Customer Growth Analysis** is a data analysis portfolio project focused on understanding business performance across financial, customer, operational, sales area, channel, and product perspectives.
 
